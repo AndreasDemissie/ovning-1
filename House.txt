@@ -1,12 +1,11 @@
-<<<<<<< HEAD
-          
-                 ----------------
-               /                        
+
+                                 | | warning: in the working copy of 'Aida.txt', LF will be replaced by CRLF the next time Git touches it| 
+                 ----------------| |
+               /                                         
               /
-=======
-<<<<<<< HEAD
-test
-----
+
+
+
 =======
 
 >>>>>>> 8ada756f5986eb8bdd1ed4c1a4f6a3a50879fbf9
